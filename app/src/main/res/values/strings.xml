@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">custom</string>
+    <string name="button">Button</string>
+    <string name="button">Button</string>
+    <string name="capture">capture</string>
+    <string name="preview">preview</string>
+    <string name="gallery">gallery</string>
+</resources>
